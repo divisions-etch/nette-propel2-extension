@@ -22,7 +22,7 @@
     "php": ">= 5.4.0",
     "nette/nette": ">= 2.2.0",
     "propel/propel": "~2.0.0@dev",
-    "monolog/monolog": ">= 1.6.0"
+    "monolog/monolog": "^1.6.0"
   },
   "autoload": {
     "classmap": [
